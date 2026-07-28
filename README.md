@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rushika1205/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/rushika1205/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/rushika1205/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rushika1205/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushika1205/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rushika1205/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rushika1205/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rushika1205/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushika1205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rushika1205/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushika1205/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rushika1205/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rushika1205/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rushika1205/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rushika1205/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushika1205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rushika1205/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rushika1205/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rushika1205/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
