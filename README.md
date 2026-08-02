@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushika1205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/rushika1205/Leetcode/tree/master/0283-move-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rushika1205/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rushika1205/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/rushika1205/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rushika1205/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0523-continuous-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rushika1205/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -89,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/rushika1205/Leetcode/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/rushika1205/Leetcode/tree/master/0066-plus-one) |
+| [0523-continuous-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rushika1205/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rushika1205/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
