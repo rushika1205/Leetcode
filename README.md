@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rushika1205/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rushika1205/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rushika1205/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/rushika1205/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rushika1205/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rushika1205/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rushika1205/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/rushika1205/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rushika1205/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/rushika1205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rushika1205/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/rushika1205/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
